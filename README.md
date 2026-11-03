@@ -2,7 +2,9 @@
 
 <br/>
 
-# 🌿 Nureli
+<img src="assets/logo.png" alt="Nureli" width="96" />
+
+# Nureli
 
 ### A gentle space to finally feel.
 
@@ -33,6 +35,28 @@ It isn't therapy. It isn't a mood tracker. It's a private, unhurried space to:
 No streaks. No scores. No pressure. Just presence.
 
 <br/>
+
+---
+
+## Screenshots
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/screen-dusk.png" width="180" /><br/><sub><b>Welcome</b></sub></td>
+    <td align="center"><img src="assets/screen-hearth.png" width="180" /><br/><sub><b>Hearth</b></sub></td>
+    <td align="center"><img src="assets/screen-mirror.png" width="180" /><br/><sub><b>Mirror</b></sub></td>
+    <td align="center"><img src="assets/screen-learn.png" width="180" /><br/><sub><b>Grove</b></sub></td>
+    <td align="center"><img src="assets/screen-journey.png" width="180" /><br/><sub><b>Journey</b></sub></td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
 
 ## What's Inside
 
@@ -115,7 +139,7 @@ All curriculum content is based on the clinical framework around CEN developed b
 - You can **export or delete all your data** at any time from Settings
 - We use no third-party ad tracking
 
-[Read the full Privacy Policy →](#)
+[Read the full Privacy Policy →](https://nureli.app/privacy)
 
 <br/>
 
@@ -141,6 +165,20 @@ Nureli is **free to download** with a meaningful free tier.
 
 ---
 
+## Research
+
+We publish our usability findings openly.
+
+| Paper | Period | *n* | Key finding |
+|-------|--------|-----|-------------|
+| [Usability Gaps in Mental-Health Apps](./research/USABILITY_STUDY.md) | Aug–Oct 2026 | 241 | Structural friction > content quality as lever for retention |
+
+[→ research/](./research/)
+
+<br/>
+
+---
+
 ## Feedback & Community
 
 This repo is the public home for Nureli — a space to ask questions, share what you're experiencing, and help shape where the app goes.
@@ -148,22 +186,6 @@ This repo is the public home for Nureli — a space to ask questions, share what
 **[💬 Start a Discussion →](../../discussions)**
 
 We read everything. We're a small team and we genuinely care about getting this right.
-
-If you've encountered a bug or want to request a feature, open a discussion rather than an issue — we'd rather hear the full context of what you were doing than just the error.
-
-<br/>
-
----
-
-## Research
-
-We publish our usability findings openly. If you're building in this space, we hope this helps.
-
-| Paper | Period | *n* | Key finding |
-|-------|--------|-----|-------------|
-| [Usability Gaps in Mental-Health Apps](./research/USABILITY_STUDY.md) | Aug–Oct 2026 | 241 | Structural friction > content quality as lever for retention |
-
-[→ research/](./research/)
 
 <br/>
 
@@ -179,8 +201,12 @@ See [ROADMAP.md](./ROADMAP.md) for what's coming.
 
 <div align="center">
 
+<img src="assets/app-icon.png" width="64" style="border-radius: 14px;" />
+
+<br/><br/>
+
 Made with care in India 🌱
 
-[nureli.app](https://nureli.app) &nbsp;·&nbsp; [Privacy Policy](#) &nbsp;·&nbsp; [Support](../../discussions)
+[nureli.app](https://nureli.app) &nbsp;·&nbsp; [Privacy Policy](https://nureli.app/privacy) &nbsp;·&nbsp; [Support](../../discussions)
 
 </div>
