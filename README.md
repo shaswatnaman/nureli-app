@@ -155,6 +155,20 @@ If you've encountered a bug or want to request a feature, open a discussion rath
 
 ---
 
+## Research
+
+We publish our usability findings openly. If you're building in this space, we hope this helps.
+
+| Paper | Period | *n* | Key finding |
+|-------|--------|-----|-------------|
+| [Usability Gaps in Mental-Health Apps](./research/USABILITY_STUDY.md) | Aug–Oct 2026 | 241 | Structural friction > content quality as lever for retention |
+
+[→ research/](./research/)
+
+<br/>
+
+---
+
 ## Roadmap
 
 See [ROADMAP.md](./ROADMAP.md) for what's coming.
